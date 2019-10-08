@@ -1,7 +1,7 @@
 # FindingDonors_Udacity
 First Project in the "introduction to machine learning" nanodegree in Udacity
 
-##Supervised Learning
+## Supervised Learning
 Project: Finding Donors for CharityML
 ### Install
 
